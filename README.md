@@ -1,4 +1,4 @@
-# Awesome AI glasses
+# AI glasses hardware designs
 
 Market players: 
 Meta Ray-Ban Gen2, SnapDragon AR1 Gen1 (SAR1115P), 2GB LPDDR4X SDRAM, 32GB NAND Flash, Bluetooth 5.3, 3 Mic, 2 Speakers, NXP MCU RT685
