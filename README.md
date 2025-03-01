@@ -1,5 +1,4 @@
-# Meta-Rayban-glasses
-looking for a reasonable solution for developers to develop cool apps with smart camera glasses
+# Awesome AI glasses
 
 inmo air2 W517 platform with ring controller (52833 + imu), $899 off-the-shelf (not good review)
 - https://www.inmoxr.com/products/inmo-air2-ar-glasses
